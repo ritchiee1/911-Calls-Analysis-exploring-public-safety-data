@@ -1,6 +1,7 @@
 README.md
 # 911 Calls Analysis Project
 
+
 ## Topic
 Analysis of Emergency 911 Calls to Uncover Patterns and Insights using google colab
 
@@ -72,28 +73,36 @@ Several visualizations were created to represent the analysis findings:
 
 1. Countplot of 911 Calls by Reason:
 A bar chart using seaborn to show the frequency of 911 calls for each reason (EMS, Fire, Traffic).
-[Countplot of 911 Calls By Reasons]![image](https://github.com/user-attachments/assets/e6ccef33-a2e9-4907-9dbd-4fbc43cb5c57)
+[Countplot of 911 Calls By Reasons]![image](https://github.com/user-attachments/assets/e655633b-81c9-4c18-885a-1f55ec90caa0)
+
 
 2. Countplot of Calls by Day of Week:
 Visualized the number of calls each day of the week, broken down by emergency reason.
-[Countplot of Calls by Day of Week]![image](https://github.com/user-attachments/assets/25a0fb6d-b57d-4c86-a436-6ec0650695c9)
+[Countplot of Calls by Day of Week]![image](https://github.com/user-attachments/assets/638496dd-121d-4a85-98ba-fe5699d83962)
+
+
 
 3. Monthy Calls Trend:
 Created line plots to visualize the number of calls per month, revealing that some months had missing data.
-[Monthy Calls Trend]![image](https://github.com/user-attachments/assets/78c30b02-88c1-4f9a-aabe-4f1cd8732537)
+[Monthy Calls Trend]![image](https://github.com/user-attachments/assets/76ae4f0f-d015-4f89-a4ee-6913963770e2)
+
 
 4. Heatmaps:
 Used heatmaps to show the distribution of 911 calls by day of the week and hour, as well as by day of the week and month.
-[heatmap day-of-week]![image](https://github.com/user-attachments/assets/a58b1241-a296-437d-9710-c0dbf869ff99)
+[heatmap day-of-week]![image](https://github.com/user-attachments/assets/9dc57d8f-d105-4fb0-9831-f720c37c3ccd)
 
-[heatmap day-hour]![image](https://github.com/user-attachments/assets/e3c9d460-6ba7-486f-b9db-7969484392dd)
 
-[heatmap day-month]![image](https://github.com/user-attachments/assets/8ee01765-9e0b-495b-bc65-583ba8c13816)
+[heatmap day-hour]![image](https://github.com/user-attachments/assets/fcf6d151-8386-46a9-9aab-9912dda61ded)
+
+
+[heatmap day-month]![image](https://github.com/user-attachments/assets/2b52ef64-14ff-4985-80c4-a5eb6b57ea7e)
+
 
 
 5. Clustermaps:
 Generated clustermaps to identify patterns in the data and cluster similar time periods based on call volume.
-[clustermap of day-month]![image](https://github.com/user-attachments/assets/2404cdac-f915-4d0b-b6a4-2f9272450703)
+[clustermap of day-month]![image](https://github.com/user-attachments/assets/3932ba58-51ca-4188-bfc9-4aa6a693b772)
+
 
 
 ## Recommendation
