@@ -1,9 +1,7 @@
 README.md
 # 911 Calls Analysis Project
 
-
-## Topic
-Analysis of Emergency 911 Calls to Uncover Patterns and Insights using google colab
+A Python project analysing a dataset containing Emergency 911 Calls, to Uncover Patterns and Insights 
 
 ## Table of Contents
 1. [Project Scope](#project-scope)
